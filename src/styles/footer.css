@@ -1,0 +1,34 @@
+.footermain {
+    display: flex;
+    flex-direction: row;
+    background: #00053C;
+    color: white;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+  }
+.footermain img{
+    margin-top:10%;
+    height: 300px;
+    width: 400px;
+}
+.arrowstart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.arrowend{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footertext{
+    display: flex;
+    flex-direction:column;
+    align-items: baseline;
+}
+.footertext :last-child {
+    position: relative;
+    top: 65px;
+  }

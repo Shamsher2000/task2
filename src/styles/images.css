@@ -1,0 +1,14 @@
+.imgdiv {
+  margin: 10px;
+  width: max-content;
+  font-family: "Futura Md BT";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 10px;
+  color: #000000;
+}
+img{
+  border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+}

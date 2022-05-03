@@ -1,0 +1,11 @@
+.heading{
+    display: flex;
+    margin-left: 10%;
+}
+.heading{
+    color: rgb(77, 77, 77);
+    font-size: 2vmax;
+    line-height: 90px;
+    font-family: 'Raleway';
+    font-weight: 1000;
+}
